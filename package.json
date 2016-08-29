@@ -1,0 +1,22 @@
+{
+  "name": "hero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/damp-crag-49777.git"
+  },
+  "author": "Jana Bergant",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^2.0.5",
+    "sendgrid": "^4.0.1",
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
